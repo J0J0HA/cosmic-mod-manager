@@ -2,7 +2,7 @@ import { Capitalize } from "@app/utils/string";
 import type { Locale } from "~/locales/types";
 // import { AboutUs } from "./about";
 // import { CopyrightPolicy } from "./legal/copyright";
-// import { PrivacyPolicy } from "./legal/privacy";
+import { PrivacyPolicy } from "./legal/privacy";
 // import { SecurityNotice } from "./legal/security";
 import { Rules } from "./legal/rules";
 import tags from "./tags";
@@ -618,8 +618,8 @@ export default {
         // copyrightPolicy: CopyrightPolicy,
         securityNoticeTitle: "Sicherheitsinformation",
         // securityNotice: SecurityNotice,
-        privacyPolicyTitle: "Privatsphärebestimmungen",
-        // privacyPolicy: PrivacyPolicy,
+        privacyPolicyTitle: "Datenschutzerklärung",
+        privacyPolicy: PrivacyPolicy,
 
         // About us page
         // aboutUs: AboutUs
