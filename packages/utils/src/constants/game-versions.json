@@ -1,5 +1,17 @@
 [
     {
+        "label": "0.5.24",
+        "value": "0.5.24",
+        "releaseType": "alpha",
+        "major": false
+    },
+    {
+        "label": "0.5.23",
+        "value": "0.5.23",
+        "releaseType": "alpha",
+        "major": false
+    },
+    {
         "label": "0.5.22",
         "value": "0.5.22",
         "releaseType": "alpha",
